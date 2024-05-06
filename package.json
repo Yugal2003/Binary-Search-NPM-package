@@ -1,0 +1,16 @@
+{
+  "name": "binary-search-npm",
+  "version": "1.0.0",
+  "description": "\"binary_search\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"binary",
+    "search\""
+  ],
+  "author": "\"Yugal\"",
+  "license": "ISC"
+}
